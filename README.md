@@ -18,7 +18,7 @@ Add `https://muratkurt.github.io/` in Sileo and install **KASwitcher**. Needs Pr
 - **Pin** — hold a card in the vault; pinned apps are skipped by Close All.
 - **Protect** — music, maps and apps you choose are never closed.
 - **Auto close** — apps unused for 1–12 hours.
-- **10 themes**, 12 languages.
+- **12 themes**, 12 languages.
 
 **Move the X button:** hold the X › **Settings** › **Move Button**.
 
