@@ -26,7 +26,7 @@ Details and changelog: [package page](https://muratkurt.github.io/depictions/com
 
 ## Bugs
 
-Open an [issue](../../issues/new/choose) with your device, iOS version, jailbreak and KASwitcher version.
+Open an [issue](../../issues/new) with your device, iOS version, jailbreak and KASwitcher version.
 
 ## Credits
 
